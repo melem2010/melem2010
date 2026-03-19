@@ -1,4 +1,4 @@
-# Oi eu sou melissa
+# Oi eu sou Melissa
 Aluno do 2º ano do curso técnico em Desenvolvimento de Sistemas do CEEP PG
 ## Conhecimentos
 - no sei
